@@ -1,24 +1,38 @@
-# README
+# Welcome
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This the Tech Talent South GitHub Lab collaborative project.  
 
-Things you may want to cover:
+Some of the goals of this project:
 
-* Ruby version
+ * Teach you the basics of GitHub collaaboration
+ * Teach you about merge resolution
+ * Teach you abotu teams and project collaborators in GitHub
+ * To teach you a little more about Markdown
 
-* System dependencies
+This file is in Markdown.  You can actually edit it on your own, in your project, then when you push up to GitHub it will reflect here.  (Note: all commits have traceability so don't get nasty :smile: )
 
-* Configuration
+One really cool thing about Markdown is that it allows code snippets like this
 
-* Database creation
 
-* Database initialization
+```ruby
+def add_this_to_that(this, that)
+  sum = this + that
+end
+```
 
-* How to run the test suite
+Cool, huh? :+1:
 
-* Services (job queues, cache servers, search engines, etc.)
+James Taylor in England made a live editor you can use online and copy/paste the code into your editor :boom:
 
-* Deployment instructions
 
-* ...
+Here it is:  [JBT's Live Editor](https://github.com/jbt/markdown-editor) 
+
+
+
+
+### BTW, this is the stuff he used to make this:
+
+ * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
+ * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
+ * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
+ * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
