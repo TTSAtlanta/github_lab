@@ -6,7 +6,7 @@ Some of the goals of this project:
 
  * Teach you the basics of GitHub collaaboration
  * Teach you about merge resolution
- * Teach you abotu teams and project collaborators in GitHub
+ * Teach you about teams and project collaborators in GitHub
  * To teach you a little more about Markdown
 
 This file is in Markdown.  You can actually edit it on your own, in your project, then when you push up to GitHub it will reflect here.  (Note: all commits have traceability so don't get nasty :smile: )
